@@ -1,58 +1,49 @@
 # Welcome to ELF-5 🚀
 
-**Building enterprise-grade developer tools that prioritize security, simplicity, and user control.**
+**Building the next generation of enterprise developer infrastructure.**
 
 ---
 
 ## About ELF-5
 
-ELF-5 is a technology company focused on creating innovative developer tools and infrastructure solutions that empower organizations to maintain control over their data and workflows. We believe that powerful tools should be simple to use, secure by design, and respect organizational sovereignty.
+ELF-5 is developing innovative developer tools and infrastructure solutions that empower organizations to maintain control over their data and workflows. We believe that powerful enterprise tools should be simple to use, secure by design, and respect organizational sovereignty.
 
 ### Our Philosophy
 - **Security First**: Every product is designed with enterprise-grade security from day one
 - **User Control**: Organizations should own their data and infrastructure choices
 - **Developer Experience**: Complex problems deserve elegant, intuitive solutions
-- **Transparent Pricing**: Simple, predictable pricing without hidden costs or feature gates
+- **Enterprise Ready**: Built for the demands of modern enterprise environments
 
 ---
 
-## 🔭 **Current Focus: Periscope**
+## 🔭 **What We're Building**
 
-**Enterprise-ready secure tunneling solution that puts you in control**
+We're developing tools that solve fundamental challenges in enterprise development workflows, with a focus on security, user attribution, and organizational control.
 
-Periscope is our flagship product - a next-generation secure tunneling platform that enables organizations to maintain complete control over their infrastructure by hosting the tunneling server within their own environment.
+### Current Focus: Secure Infrastructure Solutions
 
-### Why Periscope?
-Unlike traditional tunneling services that route traffic through third-party servers, Periscope provides:
+Our initial product focuses on secure tunneling and access management for enterprise development teams:
 
-- **🏠 100% Self-Hosted**: Deploy on your infrastructure (Azure, AWS, on-premises)
-- **🔐 SSO Integration**: Works with your existing identity provider (Azure AD, Okta, Auth0)
-- **👥 User-Centric**: All connections attributed to individual users with automatic deprovisioning
-- **📊 Pluggable Logging**: Ship logs to your existing SIEM with full user attribution
-- **🛠 Multiple Clients**: C# CLI, npm package, VS Code extension, Docker extension
-- **💰 Simple Pricing**: $5/developer/month - no tiers, no limits, no surprises
+- **🏠 Self-Hosted Architecture**: Deploy on your own infrastructure
+- **🔐 Enterprise Authentication**: Integration with existing identity providers
+- **👥 User Attribution**: Complete visibility into who is accessing what
+- **📊 Comprehensive Logging**: Full audit trails for compliance and security
+- **🛠 Multiple Integration Points**: Support for various development workflows
 
-### Perfect For
-- **Development Teams**: Secure access to internal services without VPN complexity
-- **Enterprise Security**: Meet compliance requirements while maintaining developer productivity
-- **CI/CD Pipelines**: Secure access for build systems with full audit trails
-- **Contractor Management**: Time-limited access with automatic revocation
+### Key Use Cases
+- **Development Teams**: Streamlined secure access to internal resources
+- **Enterprise Security**: Compliance-friendly access patterns with full audit trails
+- **CI/CD Integration**: Secure automation with proper attribution
+- **Temporary Access**: Managed access for contractors and external collaborators
 
 ---
 
-## 🌟 **Product Portfolio**
+## 🌟 **Development Status**
 
-### Current Products
+### In Active Development
+We're currently building our first product - an enterprise-grade secure access solution that puts organizations in complete control of their development infrastructure.
 
-#### **Periscope** - Secure Tunneling Platform
-*Status: Active Development*
-- Enterprise-ready secure tunneling with SSO integration
-- Multiple client deployment options
-- User-centric architecture with full attribution
-- [Learn More →](https://github.com/elf-5/periscope-docs)
-
-### Future Products
-*More developer tools and infrastructure solutions coming soon...*
+*More details coming soon as we approach our initial release.*
 
 ---
 
@@ -73,51 +64,42 @@ Unlike traditional tunneling services that route traffic through third-party ser
 
 ---
 
-## 📈 **Roadmap & Milestones**
+## 📈 **Development Approach**
 
-### 2025 Goals
-- **Q1**: Periscope MVP launch (all client platforms)
-- **Q2**: Commercial launch with licensing and payments
-- **Q3**: Production-ready with enterprise features
-- **Q4**: Expand product portfolio
+### Our Methodology
+- **Security by Design**: Every feature built with enterprise security requirements
+- **Agile Development**: Iterative development with regular milestones
+- **Quality Focus**: Comprehensive testing and security validation
+- **Enterprise Feedback**: Working closely with potential enterprise customers
 
-### Development Approach
-- **Agile Methodology**: 2-week sprints with clear milestones
-- **Open Development**: Transparent progress tracking
-- **User Feedback**: Early access programs for enterprise customers
-- **Quality First**: Comprehensive testing and security audits
+### 2025 Focus
+We're targeting our initial product release in 2025, with a focus on delivering enterprise-grade reliability and security from day one.
 
 ---
 
-## 🤝 **Get Involved**
+## 🤝 **Connect With Us**
+
+We're building something exciting and would love to hear from organizations interested in better developer infrastructure solutions.
 
 ### For Organizations
-- **Early Access**: Join our beta program for enterprise features
-- **Partnership**: Interested in integration or co-development opportunities
-- **Feedback**: Help shape the product roadmap
+- **Partnership Opportunities**: Interested in early collaboration or integration
+- **Enterprise Feedback**: Help shape the future of secure developer infrastructure
+- **Stay Updated**: Be among the first to know when we launch
 
 ### For Developers
-- **Contribute**: Open-source components and community contributions
-- **Join Us**: We're building a world-class engineering team
-- **Learn**: Follow our technical blog and documentation
+- **Career Opportunities**: We're building a world-class engineering team
+- **Technical Community**: Join our growing community of infrastructure enthusiasts
 
 ---
 
 ## 📞 **Contact**
 
-- **Website**: [elf5.com](https://elf5.com) *(coming soon)*
-- **Periscope**: [periscope.elf5.com](https://periscope.elf5.com) *(coming soon)*
-- **Email**: [hello@elf5.com](mailto:hello@elf5.com)
-- **LinkedIn**: [ELF-5](https://linkedin.com/company/elf-5) *(coming soon)*
+- **General Inquiries**: [hello@elf5.com](mailto:hello@elf5.com)
+- **Partnerships**: [partnerships@elf5.com](mailto:partnerships@elf5.com)
+- **Careers**: [careers@elf5.com](mailto:careers@elf5.com)
 
 ---
 
-## 📄 **Legal**
+*Building the future of enterprise developer infrastructure.*
 
 **ELF-5** is committed to building products that respect user privacy and organizational sovereignty. All products are designed to give organizations complete control over their data and infrastructure choices.
-
-*Building the future of enterprise developer tools, one product at a time.*
-
----
-
-⭐ **Star our repositories** to stay updated on our latest developments!
